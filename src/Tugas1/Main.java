@@ -58,6 +58,7 @@ public class Main {
         nota.cetakNota();
 
         System.out.println("\nTerima kasih telah memesan di Restoran Lezat!");
+        System.out.println("\nTerima kasih telah memesan di Restoran Lezat!");
     }
 }
 
