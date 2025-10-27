@@ -54,3 +54,4 @@ public class Nota {
         System.out.println("Total    : Rp" + totalAkhir);
     }
 }
+

@@ -60,3 +60,4 @@ public class Main {
         System.out.println("\nTerima kasih telah memesan di Restoran Lezat!");
     }
 }
+
